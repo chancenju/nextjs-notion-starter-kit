@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'chenkun2',
-  github: 'chancenju',,
+  github: 'chancenju',
 //   linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
