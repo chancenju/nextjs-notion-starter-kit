@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Homepage',
+  name: '主页',
   domain: 'https://chancenju.notion.site/4023b3b0cf7248229f1e18b7e2c8d44e',
   author: '陈鲲',
 
