@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'HOME',
+  name: '主页',
   domain: 'https://chancenju.notion.site/4023b3b0cf7248229f1e18b7e2c8d44e',
   author: '陈鲲',
 
@@ -39,11 +39,11 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
-  // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
-  pageUrlOverrides: null,
+  pageUrlOverrides: {
+     '/osa': 'd81bb7b2dd1f4b64b7b95e0db0c5b241',
+     '/about': '9ed7ba0724c8493c8d7d5f7b40f7447e',
+     '/resume': 'abb9936460f84ae5852b83d1f45f0097'  },
+//   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
